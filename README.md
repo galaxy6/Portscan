@@ -14,7 +14,15 @@
 
 4.protect是保护进程，port进程停止后protect会杀死这个进程并重启新的进程。
 
-Usage
+##Install
+ 
+In Kail, you need to install some libraries.
+
+python-nmap
+
+paramiko
+
+##Usage
 
 Usage: 
 
